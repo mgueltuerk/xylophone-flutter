@@ -1,3 +1,11 @@
+/*
+ * Project: xylophone-flutter
+ * File Created: Wednesday, 23rd February 2022 11:13:46 am
+ * Author: Murat Gültürk m.gueltuerk@gmx.de, https://github.com/mgueltuerk
+ * Last Modified: Friday, 25th February 2022 9:18:21 am
+ * Copyright - 2022, Murat Gültürk
+ * Published under GNU Public License (GPL)
+ */
 import 'package:flutter/material.dart';
 import 'package:audioplayers/audioplayers.dart';
 
