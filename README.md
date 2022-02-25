@@ -17,3 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ![Alt-Text](/screenshots/quiz_ios.png)
 ![Alt-Text](/screenshots/xylophone_android.png)
+![Alt-Text](/screenshots/xylophone_windows.png)
