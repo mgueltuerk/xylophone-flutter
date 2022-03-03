@@ -15,6 +15,14 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![Alt-Text](/screenshots/quiz_ios.png)
+## ANDROID
+
 ![Alt-Text](/screenshots/xylophone_android.png)
+
+## WINDOWS
+
+![Alt-Text](/screenshots/xylophone_windows.png)
+
+## WEB
+
 ![Alt-Text](/screenshots/xylophone_windows.png)
