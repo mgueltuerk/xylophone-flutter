@@ -25,4 +25,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ## WEB
 
-![Alt-Text](/screenshots/xylophone_windows.png)
+![Alt-Text](/screenshots/xylophone_web.png)
